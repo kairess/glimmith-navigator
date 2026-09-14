@@ -5,13 +5,38 @@
   "description": "Read-only companion overlay for The Artisan of Glimmith — tracks stained-glass window / puzzle completion from the game's own save file, and can teleport you to any discovered puzzle in-game.",
   "type": "module",
   "main": "electron/main.js",
+  "author": "kairess",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dist": "electron-builder --win portable"
   },
   "dependencies": {
     "chokidar": "^3.6.0"
   },
   "devDependencies": {
-    "electron": "^41.7.1"
+    "electron": "^41.7.1",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.kairess.glimmithnavigator",
+    "productName": "Glimmith Navigator",
+    "asar": false,
+    "files": [
+      "electron/**/*",
+      "renderer/**/*",
+      "server/**/*",
+      "config.json",
+      "package.json"
+    ],
+    "extraResources": [],
+    "win": {
+      "target": "portable"
+    },
+    "portable": {
+      "artifactName": "GlimmithNavigator-${version}.exe"
+    },
+    "directories": {
+      "output": "dist"
+    }
   }
 }

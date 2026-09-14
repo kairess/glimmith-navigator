@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<title>Glimmith Navigator</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app" class="panel">
+    <header class="topbar">
+      <div class="title-row">
+        <div class="title">GLIMMITH NAVIGATOR</div>
+        <div class="title-row-right">
+          <span id="clock" class="clock"></span>
+          <button id="minimizeBtn" class="minimize-btn" title="Minimize">-</button>
+        </div>
+      </div>
+      <div class="global-stats">
+        <div class="big-number"><span id="solvedCount">0</span> <span class="sep">/</span> <span id="totalCount">0</span></div>
+        <div class="sub-label">puzzles solved · out of all known puzzles</div>
+        <div class="progress-bar"><div id="globalBar" class="progress-fill"></div></div>
+        <div class="sub-label" id="windowsPerfectedLabel">0 windows perfected</div>
+      </div>
+    </header>
+
+    <main id="content" class="content"></main>
+
+    <footer class="statusbar">
+      <span id="connStatus">watching save file…</span>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

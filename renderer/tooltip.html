@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<title>Glimmith Navigator Tooltip</title>
+<style>
+  html, body {
+    margin: 0;
+    height: 100%;
+    background: transparent;
+    overflow: hidden;
+    font-family: 'Georgia', 'Iowan Old Style', serif;
+  }
+  #tip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 7px 14px;
+    border-radius: 7px;
+    border: 1px solid #b8892b;
+    background: rgba(38, 28, 14, 0.92);
+    color: #f1e6cc;
+    font-size: 16px;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+
+</style>
+</head>
+<body>
+  <div id="tip"><span id="label"></span></div>
+  <script src="tooltip.js"></script>
+</body>
+</html>

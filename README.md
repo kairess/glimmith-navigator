@@ -8,6 +8,10 @@ The overlay stays docked to the right edge while you play, only showing itself o
 
 ![world map view](docs/screenshot-worldmap.jpg)
 
+## Download
+
+**[Download the latest .exe](https://github.com/kairess/glimmith-navigator/releases/latest)** — a single portable file, no install needed. (You still need to install UE4SS and the mod script below — the exe alone can't move your character in-game.)
+
 ## Features
 
 - **Full puzzle list** — all 1225 puzzles, grouped by zone/window, read live from your save file.
@@ -57,7 +61,9 @@ Edit `config.json` in this repo if your game/save location differs from the defa
 }
 ```
 
-**4. Install and run**
+**4. Run it**
+
+Either double-click the downloaded `.exe`, or run from source:
 
 ```
 npm install

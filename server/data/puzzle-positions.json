@@ -1,1018 +1,10 @@
 [
   {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0745.puz",
-    "instName": "Area_PuzzleCube_Boss2",
-    "x": -49199.40625,
-    "y": -12071.510742188,
-    "z": 925.77478027344
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0742.puz",
-    "instName": "Area_PuzzleCube_Boss1",
-    "x": -50582.26171875,
-    "y": -6294.8828125,
-    "z": -283.87338256836
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0647.puz",
-    "instName": "Area_PuzzleCube_9",
-    "x": -47137.44921875,
-    "y": -9825.408203125,
-    "z": 520.77453613281
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0649.puz",
-    "instName": "Area_PuzzleCube_8",
-    "x": -48590.69140625,
-    "y": -13965.516601562,
-    "z": 714.76287841797
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1159.puz",
-    "instName": "Area_PuzzleCube_7",
-    "x": -46475.25,
-    "y": -8862.673828125,
-    "z": -548.71710205078
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0710.puz",
-    "instName": "Area_PuzzleCube_6",
-    "x": -44634.20703125,
-    "y": -8561.3564453125,
-    "z": 72.575439453125
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0281.puz",
-    "instName": "Area_PuzzleCube_5",
-    "x": -47204.73046875,
-    "y": -3828.4350585938,
-    "z": -564.87347412109
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1101.puz",
-    "instName": "Area_PuzzleCube_4",
-    "x": -48083.19921875,
-    "y": -8259.255859375,
-    "z": 129.45208740234
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1329.puz",
-    "instName": "Area_PuzzleCube_31",
-    "x": -49424.796875,
-    "y": -10626.196289062,
-    "z": 910.548828125
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1261.puz",
-    "instName": "Area_PuzzleCube_30",
-    "x": -50138.62890625,
-    "y": -5098.31640625,
-    "z": -274.91961669922
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0360.puz",
-    "instName": "Area_PuzzleCube_3",
-    "x": -46480.53515625,
-    "y": -8567.703125,
-    "z": -584.04693603516
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0749.puz",
-    "instName": "Area_PuzzleCube_29",
-    "x": -51288.18359375,
-    "y": -9001.10546875,
-    "z": 971.98181152344
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0748.puz",
-    "instName": "Area_PuzzleCube_28",
-    "x": -51095.5859375,
-    "y": -11481.760742188,
-    "z": 809.18762207031
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0648.puz",
-    "instName": "Area_PuzzleCube_27",
-    "x": -49895.6171875,
-    "y": -9346.4072265625,
-    "z": 921.98706054688
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0348.puz",
-    "instName": "Area_PuzzleCube_26",
-    "x": -50848.47265625,
-    "y": -10313.763671875,
-    "z": 966.86279296875
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0746.puz",
-    "instName": "Area_PuzzleCube_25",
-    "x": -48239.84375,
-    "y": -10637.424804688,
-    "z": 697.64770507812
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0752.puz",
-    "instName": "Area_PuzzleCube_24",
-    "x": -47460.05078125,
-    "y": -14705.236328125,
-    "z": 673.65112304688
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0751.puz",
-    "instName": "Area_PuzzleCube_23",
-    "x": -47388.66796875,
-    "y": -12163.400390625,
-    "z": 765.52935791016
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0378.puz",
-    "instName": "Area_PuzzleCube_22",
-    "x": -49411.36328125,
-    "y": -12935.005859375,
-    "z": 872.31158447266
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0376.puz",
-    "instName": "Area_PuzzleCube_21",
-    "x": -51487.609375,
-    "y": -14246.727539062,
-    "z": 708.11450195312
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0750.puz",
-    "instName": "Area_PuzzleCube_20",
-    "x": -47228.42578125,
-    "y": -13307.71875,
-    "z": 664.09460449219
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0747.puz",
-    "instName": "Area_PuzzleCube_2",
-    "x": -43563.19921875,
-    "y": -4320.4560546875,
-    "z": 257.88385009766
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0344r.puz",
-    "instName": "Area_PuzzleCube_19Secretish",
-    "x": -49585.56640625,
-    "y": -7900.8212890625,
-    "z": 946.9345703125
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1328.puz",
-    "instName": "Area_PuzzleCube_19",
-    "x": -50387.55859375,
-    "y": -8699.765625,
-    "z": 949.15997314453
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0744.puz",
-    "instName": "Area_PuzzleCube_18",
-    "x": -48930.921875,
-    "y": -4160.4995117188,
-    "z": -600.41412353516
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0739.puz",
-    "instName": "Area_PuzzleCube_17",
-    "x": -48105.1796875,
-    "y": -11042.025390625,
-    "z": 685.34143066406
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0743.puz",
-    "instName": "Area_PuzzleCube_16",
-    "x": -49298.38671875,
-    "y": -7414.8974609375,
-    "z": -564.29949951172
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0346.puz",
-    "instName": "Area_PuzzleCube_15",
-    "x": -46486.28515625,
-    "y": -8249.2861328125,
-    "z": -583.76940917969
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0187.puz",
-    "instName": "Area_PuzzleCube_14",
-    "x": -47255.72265625,
-    "y": -5471.7631835938,
-    "z": -627.70220947266
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0386.puz",
-    "instName": "Area_PuzzleCube_13",
-    "x": -47980.31640625,
-    "y": -5963.4692382812,
-    "z": -665.63507080078
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0388.puz",
-    "instName": "Area_PuzzleCube_12",
-    "x": -46183.80859375,
-    "y": -10243.171875,
-    "z": -130.78039550781
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0292.puz",
-    "instName": "Area_PuzzleCube_11",
-    "x": -47935.37890625,
-    "y": -7248.4658203125,
-    "z": -620.75067138672
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0334.puz",
-    "instName": "Area_PuzzleCube_10",
-    "x": -44484.421875,
-    "y": -5277.9306640625,
-    "z": -349.26248168945
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0335.puz",
-    "instName": "Area_PuzzleCube_1",
-    "x": -44843.5,
-    "y": -6665.880859375,
-    "z": -456.74938964844
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0352.puz",
-    "instName": "AllSame_Tutorial_03",
-    "x": -43705.296875,
-    "y": -12710.668945312,
-    "z": 596.02825927734
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0602.puz",
-    "instName": "AllSame_Tutorial_02",
-    "x": -44015.8671875,
-    "y": -11646.80859375,
-    "z": 291.82821655273
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0319.puz",
-    "instName": "AllSame_Tutorial_01",
-    "x": -44671.78125,
-    "y": -11261.821289062,
-    "z": 121.58288574219
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0763.puz",
-    "instName": "AllSame_PuzzleCube_Boss",
-    "x": -40667.1328125,
-    "y": -17548.98046875,
-    "z": 1699.3543701172
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0960.puz",
-    "instName": "AllSame_PuzzleCube_9Secret",
-    "x": -43097.73828125,
-    "y": -17677.806640625,
-    "z": 2739.5439453125
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0700.puz",
-    "instName": "AllSame_PuzzleCube_9",
-    "x": -41154.10546875,
-    "y": -16864.935546875,
-    "z": 782.80456542969
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0382.puz",
-    "instName": "AllSame_PuzzleCube_8",
-    "x": -40112.3671875,
-    "y": -16157.827148438,
-    "z": 469.73178100586
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0355.puz",
-    "instName": "AllSame_PuzzleCube_7",
-    "x": -39924.96875,
-    "y": -12902.587890625,
-    "z": 928.70819091797
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1095.puz",
-    "instName": "AllSame_PuzzleCube_6",
-    "x": -42479.4765625,
-    "y": -14675.784179688,
-    "z": 700.66943359375
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0353.puz",
-    "instName": "AllSame_PuzzleCube_5",
-    "x": -38196.45703125,
-    "y": -14055.499023438,
-    "z": -710.54223632812
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0381.puz",
-    "instName": "AllSame_PuzzleCube_4",
-    "x": -42481.984375,
-    "y": -16023.868164062,
-    "z": 771.12658691406
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0351.puz",
-    "instName": "AllSame_PuzzleCube_11",
-    "x": -40001.7421875,
-    "y": -14448.551757812,
-    "z": 625.35943603516
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0350.puz",
-    "instName": "AllSame_PuzzleCube_10",
-    "x": -41316.640625,
-    "y": -15092.78125,
-    "z": 560.05725097656
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0604.puz",
-    "instName": "AllDiff_Tutorial_05",
-    "x": -49761.2265625,
-    "y": 13423.112304688,
-    "z": 1888.7677001953
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0603.puz",
-    "instName": "AllDiff_Tutorial_04",
-    "x": -49324.7109375,
-    "y": 12273.64453125,
-    "z": 1384.5617675781
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0282.puz",
-    "instName": "AllDiff_Tutorial_03B",
-    "x": -49313.140625,
-    "y": 11236.041992188,
-    "z": 1186.9638671875
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0645.puz",
-    "instName": "AllDiff_Tutorial_03",
-    "x": -48772.97265625,
-    "y": 10768.176757812,
-    "z": 1179.2243652344
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0760.puz",
-    "instName": "AllDiff_Tutorial_02",
-    "x": -48530.140625,
-    "y": 9963.544921875,
-    "z": 1224.9581298828
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0283.puz",
-    "instName": "AllDiff_Tutorial_01",
-    "x": -48214.4140625,
-    "y": 9252.49609375,
-    "z": 1375.4685058594
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0317.puz",
-    "instName": "AllDiff_PuzzleCube_Secret5",
-    "x": -51022.80078125,
-    "y": 11404.338867188,
-    "z": -4582.5927734375
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0701.puz",
-    "instName": "AllDiff_PuzzleCube_Secret4",
-    "x": -57947.296875,
-    "y": 15494.3125,
-    "z": -549.95397949219
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0332.puz",
-    "instName": "AllDiff_PuzzleCube_Secret3",
-    "x": -57840.08984375,
-    "y": 16948.48046875,
-    "z": -537.83868408203
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1254.puz",
-    "instName": "AllDiff_PuzzleCube_Secret2",
-    "x": -53007.5078125,
-    "y": 20123.462890625,
-    "z": 3793.7368164062
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0349.puz",
-    "instName": "AllDiff_PuzzleCube_Secret1",
-    "x": -50175.69140625,
-    "y": 17773.17578125,
-    "z": -3322.4499511719
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0325.puz",
-    "instName": "AllDiff_PuzzleCube_Boss",
-    "x": -52106.30078125,
-    "y": 19938.5859375,
-    "z": 1827.419921875
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1174.puz",
-    "instName": "AllDiff_PuzzleCube_9",
-    "x": -48098.49609375,
-    "y": 17670.013671875,
-    "z": 1777.4204101562
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0076.puz",
-    "instName": "AllDiff_PuzzleCube_8",
-    "x": -49533.69921875,
-    "y": 19449.537109375,
-    "z": 2638.1586914062
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0723.puz",
-    "instName": "AllDiff_PuzzleCube_7",
-    "x": -45433.6171875,
-    "y": 14344.28125,
-    "z": -417.09060668945
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0254.puz",
-    "instName": "AllSame_PuzzleCube_3",
-    "x": -41360.03515625,
-    "y": -14047.892578125,
-    "z": 936.31134033203
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1366.puz",
-    "instName": "AllSame_PuzzleCube_23",
-    "x": -42712.81640625,
-    "y": -15531.330078125,
-    "z": 1930.3959960938
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1365.puz",
-    "instName": "AllSame_PuzzleCube_22",
-    "x": -39699.44921875,
-    "y": -14563.412109375,
-    "z": 1540.9958496094
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1364.puz",
-    "instName": "AllSame_PuzzleCube_21",
-    "x": -39386.828125,
-    "y": -13955.012695312,
-    "z": 857.10925292969
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1331.puz",
-    "instName": "AllSame_PuzzleCube_20",
-    "x": -39646.43359375,
-    "y": -17554.591796875,
-    "z": 514.73138427734
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0384.puz",
-    "instName": "AllSame_PuzzleCube_2",
-    "x": -41791.47265625,
-    "y": -19146.958984375,
-    "z": 1643.9716796875
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0372.puz",
-    "instName": "AllSame_PuzzleCube_1Secret",
-    "x": -39459.1171875,
-    "y": -16763.43359375,
-    "z": -1604.3604736328
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1330.puz",
-    "instName": "AllSame_PuzzleCube_19",
-    "x": -40230.0078125,
-    "y": -18730.798828125,
-    "z": 631.58154296875
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1178.puz",
-    "instName": "AllSame_PuzzleCube_18",
-    "x": -41179.46484375,
-    "y": -18522.10546875,
-    "z": 648.42572021484
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0356.puz",
-    "instName": "AllSame_PuzzleCube_17",
-    "x": -38563.65234375,
-    "y": -14589.201171875,
-    "z": 462.48858642578
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0145.puz",
-    "instName": "AllSame_PuzzleCube_16",
-    "x": -39705.65234375,
-    "y": -15341.256835938,
-    "z": 405.28735351562
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0383.puz",
-    "instName": "AllSame_PuzzleCube_15",
-    "x": -41241.34375,
-    "y": -17789.359375,
-    "z": 676.77850341797
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1177.puz",
-    "instName": "AllSame_PuzzleCube_14",
-    "x": -43699.40625,
-    "y": -14733.747070312,
-    "z": 1041.8791503906
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1176.puz",
-    "instName": "AllSame_PuzzleCube_13",
-    "x": -42130.89453125,
-    "y": -12702.244140625,
-    "z": 497.74880981445
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0357.puz",
-    "instName": "AllSame_PuzzleCube_12",
-    "x": -38704.578125,
-    "y": -15792.075195312,
-    "z": 125.24298095703
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0318.puz",
-    "instName": "AllDiff_PuzzleCube_24",
-    "x": -49202.9140625,
-    "y": 19362.830078125,
-    "z": 2638.1606445312
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0757.puz",
-    "instName": "AllDiff_PuzzleCube_23",
-    "x": -50669.32421875,
-    "y": 16612.587890625,
-    "z": 1670.5158691406
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0605.puz",
-    "instName": "AllDiff_PuzzleCube_22",
-    "x": -51858.64453125,
-    "y": 14784.379882812,
-    "z": 2296.6381835938
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0327.puz",
-    "instName": "AllDiff_PuzzleCube_21",
-    "x": -49028.9375,
-    "y": 16788.783203125,
-    "z": 1410.4709472656
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0285.puz",
-    "instName": "AllDiff_PuzzleCube_20",
-    "x": -52166.21875,
-    "y": 15190.196289062,
-    "z": 2311.0678710938
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0761.puz",
-    "instName": "AllDiff_PuzzleCube_2",
-    "x": -49008.33984375,
-    "y": 16995.859375,
-    "z": 1991.3022460938
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0315.puz",
-    "instName": "AllDiff_PuzzleCube_19",
-    "x": -51625.19921875,
-    "y": 21548.958984375,
-    "z": 4231.1372070312
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0314.puz",
-    "instName": "AllDiff_PuzzleCube_18",
-    "x": -48227.3515625,
-    "y": 22430.68359375,
-    "z": 2364.0327148438
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0316.puz",
-    "instName": "AllDiff_PuzzleCube_17",
-    "x": -47171.45703125,
-    "y": 20929.57421875,
-    "z": 2360.3449707031
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1034.puz",
-    "instName": "AllDiff_PuzzleCube_16",
-    "x": -50296.125,
-    "y": 14450.279296875,
-    "z": 1822.0886230469
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0264.puz",
-    "instName": "AllDiff_PuzzleCube_15",
-    "x": -54032.65625,
-    "y": 17991.431640625,
-    "z": 2389.5771484375
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0310.puz",
-    "instName": "AllDiff_PuzzleCube_14",
-    "x": -54716.94140625,
-    "y": 17471.900390625,
-    "z": 3136.1071777344
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0333.puz",
-    "instName": "AllDiff_PuzzleCube_13",
-    "x": -55709.328125,
-    "y": 17887.037109375,
-    "z": 4286.7543945312
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0758.puz",
-    "instName": "AllDiff_PuzzleCube_12",
-    "x": -51549.49609375,
-    "y": 17113.318359375,
-    "z": 1576.4240722656
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0258.puz",
-    "instName": "AllDiff_PuzzleCube_11",
-    "x": -53998.61328125,
-    "y": 15699.760742188,
-    "z": 2090.1918945312
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0754.puz",
-    "instName": "AllDiff_PuzzleCube_10",
-    "x": -50678.86328125,
-    "y": 17389.51171875,
-    "z": 1631.1259765625
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1175.puz",
-    "instName": "AllDiff_PuzzleCube_6",
-    "x": -48765.8359375,
-    "y": 14292.922851562,
-    "z": 1097.1083984375
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1263.puz",
-    "instName": "AllDiff_PuzzleCube_5",
-    "x": -44900.29296875,
-    "y": 16637.412109375,
-    "z": -3350.1555175781
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0341.puz",
-    "instName": "AllDiff_PuzzleCube_4",
-    "x": -47550.12109375,
-    "y": 15430.171875,
-    "z": -972.43829345703
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1370.puz",
-    "instName": "AllDiff_PuzzleCube_36",
-    "x": -47149.3828125,
-    "y": 15250.844726562,
-    "z": 484.45239257812
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1305.puz",
-    "instName": "AllDiff_PuzzleCube_35",
-    "x": -49928.39453125,
-    "y": 11796.845703125,
-    "z": -4638.779296875
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1336.puz",
-    "instName": "AllDiff_PuzzleCube_34",
-    "x": -47442.078125,
-    "y": 16234.877929688,
-    "z": 1275.0834960938
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1311.puz",
-    "instName": "AllDiff_PuzzleCube_33",
-    "x": -48801.01953125,
-    "y": 20508.951171875,
-    "z": 2846.806640625
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1313.puz",
-    "instName": "AllDiff_PuzzleCube_32",
-    "x": -47167.63671875,
-    "y": 19198.919921875,
-    "z": 3300.4577636719
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1312.puz",
-    "instName": "AllDiff_PuzzleCube_31",
-    "x": -49864.70703125,
-    "y": 21401.572265625,
-    "z": 2739.6892089844
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1310.puz",
-    "instName": "AllDiff_PuzzleCube_30",
-    "x": -48304.078125,
-    "y": 18651.34375,
-    "z": 1874.4663085938
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0284.puz",
-    "instName": "AllDiff_PuzzleCube_3",
-    "x": -53186.78125,
-    "y": 14042.858398438,
-    "z": 3041.6176757812
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1309.puz",
-    "instName": "AllDiff_PuzzleCube_29",
-    "x": -53310.12890625,
-    "y": 16805.740234375,
-    "z": 1864.2020263672
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1308.puz",
-    "instName": "AllDiff_PuzzleCube_28",
-    "x": -45256.37890625,
-    "y": 15199.635742188,
-    "z": 386.19323730469
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1340.puz",
-    "instName": "AllDiff_PuzzleCube_27",
-    "x": -50772.61328125,
-    "y": 14521.352539062,
-    "z": -4887.4345703125
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1173.puz",
-    "instName": "AllDiff_PuzzleCube_26",
-    "x": -49470.4609375,
-    "y": 18875.1171875,
-    "z": 1950.2067871094
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1262.puz",
-    "instName": "AllDiff_PuzzleCube_25",
-    "x": -51722.26171875,
-    "y": 19323.74609375,
-    "z": 3263.7685546875
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1035.puz",
-    "instName": "AllDiff_PuzzleCube_1",
-    "x": -49785.0390625,
-    "y": 14597.515625,
-    "z": 1883.005859375
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0568.puz",
-    "instName": "1SPR_Tutorial_06",
-    "x": -56124.078125,
-    "y": 10929.654296875,
-    "z": 1362.5906982422
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0504.puz",
-    "instName": "1SPR_Tutorial_05",
-    "x": -54987.2734375,
-    "y": 11404.250976562,
-    "z": 1212.7841796875
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0640.puz",
-    "instName": "1SPR_Tutorial_04",
-    "x": -54180.8671875,
-    "y": 11715.049804688,
-    "z": 1153.1489257812
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0639.puz",
-    "instName": "1SPR_Tutorial_03",
-    "x": -53399.53515625,
-    "y": 12057.583984375,
-    "z": 1175.7418212891
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0565.puz",
-    "instName": "1SPR_Tutorial_02",
-    "x": -52492.0078125,
-    "y": 12385.779296875,
-    "z": 1308.7233886719
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0564.puz",
-    "instName": "1SPR_Tutorial_01",
-    "x": -51527.61328125,
-    "y": 12826.2265625,
-    "z": 1593.71484375
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1185.puz",
-    "instName": "1SPR_PuzzleCube_Secret5",
-    "x": -56944.21875,
-    "y": 7016.90625,
-    "z": 70.148406982422
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0791.puz",
-    "instName": "1SPR_PuzzleCube_Secret4",
-    "x": -59968.84765625,
-    "y": 7676.7080078125,
-    "z": 655.45678710938
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0789.puz",
-    "instName": "1SPR_PuzzleCube_Secret3",
-    "x": -59909.80859375,
-    "y": 8584.5986328125,
-    "z": 644.35876464844
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0385.puz",
-    "instName": "1SPR_PuzzleCube_Secret2",
-    "x": -59251.89453125,
-    "y": 9447.5283203125,
-    "z": 648.79998779297
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0794.puz",
-    "instName": "1SPR_PuzzleCube_Secret1",
-    "x": -60587.04296875,
-    "y": 12224.55859375,
-    "z": 2229.5080566406
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0788.puz",
-    "instName": "1SPR_PuzzleCube_Secret0",
-    "x": -55679.05859375,
-    "y": 9601.376953125,
-    "z": 384.51571655273
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0808.puz",
-    "instName": "1SPR_PuzzleCube_Boss",
-    "x": -60948.55078125,
-    "y": 10021.3125,
-    "z": 1832.3746337891
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0811.puz",
-    "instName": "1SPR_PuzzleCube_9",
-    "x": -56756.71484375,
-    "y": 8047.4765625,
-    "z": 1258.783203125
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0787.puz",
-    "instName": "1SPR_PuzzleCube_7",
-    "x": -59902.6875,
-    "y": 13032.362304688,
-    "z": 843.05908203125
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0795.puz",
-    "instName": "1SPR_PuzzleCube_6",
-    "x": -59632.1484375,
-    "y": 14613.53125,
-    "z": 267.79309082031
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0675.puz",
-    "instName": "1SPR_PuzzleCube_5",
-    "x": -60042.91796875,
-    "y": 13465.737304688,
-    "z": 1959.8654785156
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0790.puz",
-    "instName": "1SPR_PuzzleCube_40",
-    "x": -58221.03125,
-    "y": 6518.3515625,
-    "z": 1802.1130371094
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1186.puz",
-    "instName": "1SPR_PuzzleCube_4",
-    "x": -58393.9375,
-    "y": 11562.11328125,
-    "z": 1586.9888916016
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0796.puz",
-    "instName": "1SPR_PuzzleCube_38",
-    "x": -57087.390625,
-    "y": 11245.6640625,
-    "z": 1272.4193115234
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0567.puz",
-    "instName": "1SPR_PuzzleCube_3",
-    "x": -58045.66015625,
-    "y": 10495.3828125,
-    "z": 1280.7796630859
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1321.puz",
-    "instName": "1SPR_PuzzleCube_24",
-    "x": -60336.6328125,
-    "y": 8328.4208984375,
-    "z": 1836.6206054688
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1320.puz",
-    "instName": "1SPR_PuzzleCube_23",
-    "x": -60126.921875,
-    "y": 8328.4208984375,
-    "z": 1836.6206054688
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1319.puz",
-    "instName": "1SPR_PuzzleCube_22",
-    "x": -56855.92578125,
-    "y": 12011.9609375,
-    "z": 1294.5922851562
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1316.puz",
-    "instName": "1SPR_PuzzleCube_21",
-    "x": -60149.81640625,
-    "y": 14915.665039062,
-    "z": 1496.8148193359
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1317.puz",
-    "instName": "1SPR_PuzzleCube_20",
-    "x": -57591.234375,
-    "y": 7066.3999023438,
-    "z": 1312.4997558594
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1318.puz",
-    "instName": "1SPR_PuzzleCube_19",
-    "x": -59145.57421875,
-    "y": 10602.328125,
-    "z": 1861.1271972656
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0793.puz",
-    "instName": "1SPR_PuzzleCube_18",
-    "x": -59688,
-    "y": 7059.4462890625,
-    "z": 1946.0861816406
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1264.puz",
-    "instName": "1SPR_PuzzleCube_17",
-    "x": -60846.66796875,
-    "y": 11676.66015625,
-    "z": 1613.4957275391
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0785.puz",
-    "instName": "1SPR_PuzzleCube_16",
-    "x": -61713.73828125,
-    "y": 8284.7109375,
-    "z": 1778.4564208984
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0798.puz",
-    "instName": "1SPR_PuzzleCube_15",
-    "x": -60315.0390625,
-    "y": 7043.3696289062,
-    "z": 1946.0861816406
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0786.puz",
-    "instName": "1SPR_PuzzleCube_14",
-    "x": -61509.29296875,
-    "y": 10036.801757812,
-    "z": 3181.0705566406
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0129b.puz",
-    "instName": "1SPR_PuzzleCube_13",
-    "x": -61227.27734375,
-    "y": 10600.420898438,
-    "z": 3066.36328125
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0702.puz",
-    "instName": "1SPR_PuzzleCube_12",
-    "x": -59130.29296875,
-    "y": 12292.3828125,
-    "z": 2303.4931640625
-  },
-  {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0797.puz",
-    "instName": "1SPR_PuzzleCube_11",
-    "x": -58714.9765625,
-    "y": 9530.19140625,
-    "z": 1814.8489990234
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0503.puz",
+    "instName": "1SPR_PuzzleCube_0",
+    "x": -56645.8125,
+    "y": 9477.46484375,
+    "z": 1266.8984375
   },
   {
     "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1184.puz",
@@ -1022,11 +14,1019 @@
     "z": 1266.8984375
   },
   {
-    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0503.puz",
-    "instName": "1SPR_PuzzleCube_0",
-    "x": -56645.8125,
-    "y": 9477.46484375,
-    "z": 1266.8984375
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0797.puz",
+    "instName": "1SPR_PuzzleCube_11",
+    "x": -58714.9765625,
+    "y": 9530.19140625,
+    "z": 1814.8489990234
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0702.puz",
+    "instName": "1SPR_PuzzleCube_12",
+    "x": -59130.29296875,
+    "y": 12292.3828125,
+    "z": 2303.4931640625
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0129b.puz",
+    "instName": "1SPR_PuzzleCube_13",
+    "x": -61227.27734375,
+    "y": 10600.420898438,
+    "z": 3066.36328125
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0786.puz",
+    "instName": "1SPR_PuzzleCube_14",
+    "x": -61509.29296875,
+    "y": 10036.801757812,
+    "z": 3181.0705566406
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0798.puz",
+    "instName": "1SPR_PuzzleCube_15",
+    "x": -60315.0390625,
+    "y": 7043.3696289062,
+    "z": 1946.0861816406
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0785.puz",
+    "instName": "1SPR_PuzzleCube_16",
+    "x": -61713.73828125,
+    "y": 8284.7109375,
+    "z": 1778.4564208984
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1264.puz",
+    "instName": "1SPR_PuzzleCube_17",
+    "x": -60846.66796875,
+    "y": 11676.66015625,
+    "z": 1613.4957275391
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0793.puz",
+    "instName": "1SPR_PuzzleCube_18",
+    "x": -59688,
+    "y": 7059.4462890625,
+    "z": 1946.0861816406
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1318.puz",
+    "instName": "1SPR_PuzzleCube_19",
+    "x": -59145.57421875,
+    "y": 10602.328125,
+    "z": 1861.1271972656
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1317.puz",
+    "instName": "1SPR_PuzzleCube_20",
+    "x": -57591.234375,
+    "y": 7066.3999023438,
+    "z": 1312.4997558594
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1316.puz",
+    "instName": "1SPR_PuzzleCube_21",
+    "x": -60149.81640625,
+    "y": 14915.665039062,
+    "z": 1496.8148193359
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1319.puz",
+    "instName": "1SPR_PuzzleCube_22",
+    "x": -56855.92578125,
+    "y": 12011.9609375,
+    "z": 1294.5922851562
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1320.puz",
+    "instName": "1SPR_PuzzleCube_23",
+    "x": -60126.921875,
+    "y": 8328.4208984375,
+    "z": 1836.6206054688
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1321.puz",
+    "instName": "1SPR_PuzzleCube_24",
+    "x": -60336.6328125,
+    "y": 8328.4208984375,
+    "z": 1836.6206054688
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0567.puz",
+    "instName": "1SPR_PuzzleCube_3",
+    "x": -58045.66015625,
+    "y": 10495.3828125,
+    "z": 1280.7796630859
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0796.puz",
+    "instName": "1SPR_PuzzleCube_38",
+    "x": -57087.390625,
+    "y": 11245.6640625,
+    "z": 1272.4193115234
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1186.puz",
+    "instName": "1SPR_PuzzleCube_4",
+    "x": -58393.9375,
+    "y": 11562.11328125,
+    "z": 1586.9888916016
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0790.puz",
+    "instName": "1SPR_PuzzleCube_40",
+    "x": -58221.03125,
+    "y": 6518.3515625,
+    "z": 1802.1130371094
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0675.puz",
+    "instName": "1SPR_PuzzleCube_5",
+    "x": -60042.91796875,
+    "y": 13465.737304688,
+    "z": 1959.8654785156
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0795.puz",
+    "instName": "1SPR_PuzzleCube_6",
+    "x": -59632.1484375,
+    "y": 14613.53125,
+    "z": 267.79309082031
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0787.puz",
+    "instName": "1SPR_PuzzleCube_7",
+    "x": -59902.6875,
+    "y": 13032.362304688,
+    "z": 843.05908203125
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0811.puz",
+    "instName": "1SPR_PuzzleCube_9",
+    "x": -56756.71484375,
+    "y": 8047.4765625,
+    "z": 1258.783203125
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0808.puz",
+    "instName": "1SPR_PuzzleCube_Boss",
+    "x": -60948.55078125,
+    "y": 10021.3125,
+    "z": 1832.3746337891
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0788.puz",
+    "instName": "1SPR_PuzzleCube_Secret0",
+    "x": -55679.05859375,
+    "y": 9601.376953125,
+    "z": 384.51571655273
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0794.puz",
+    "instName": "1SPR_PuzzleCube_Secret1",
+    "x": -60587.04296875,
+    "y": 12224.55859375,
+    "z": 2229.5080566406
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0385.puz",
+    "instName": "1SPR_PuzzleCube_Secret2",
+    "x": -59251.89453125,
+    "y": 9447.5283203125,
+    "z": 648.79998779297
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0789.puz",
+    "instName": "1SPR_PuzzleCube_Secret3",
+    "x": -59909.80859375,
+    "y": 8584.5986328125,
+    "z": 644.35876464844
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0791.puz",
+    "instName": "1SPR_PuzzleCube_Secret4",
+    "x": -59968.84765625,
+    "y": 7676.7080078125,
+    "z": 655.45678710938
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/1185.puz",
+    "instName": "1SPR_PuzzleCube_Secret5",
+    "x": -56944.21875,
+    "y": 7016.90625,
+    "z": 70.148406982422
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0564.puz",
+    "instName": "1SPR_Tutorial_01",
+    "x": -51527.61328125,
+    "y": 12826.2265625,
+    "z": 1593.71484375
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0565.puz",
+    "instName": "1SPR_Tutorial_02",
+    "x": -52492.0078125,
+    "y": 12385.779296875,
+    "z": 1308.7233886719
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0639.puz",
+    "instName": "1SPR_Tutorial_03",
+    "x": -53399.53515625,
+    "y": 12057.583984375,
+    "z": 1175.7418212891
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0640.puz",
+    "instName": "1SPR_Tutorial_04",
+    "x": -54180.8671875,
+    "y": 11715.049804688,
+    "z": 1153.1489257812
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0504.puz",
+    "instName": "1SPR_Tutorial_05",
+    "x": -54987.2734375,
+    "y": 11404.250976562,
+    "z": 1212.7841796875
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/7-1SPR/0568.puz",
+    "instName": "1SPR_Tutorial_06",
+    "x": -56124.078125,
+    "y": 10929.654296875,
+    "z": 1362.5906982422
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1035.puz",
+    "instName": "AllDiff_PuzzleCube_1",
+    "x": -49785.0390625,
+    "y": 14597.515625,
+    "z": 1883.005859375
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0754.puz",
+    "instName": "AllDiff_PuzzleCube_10",
+    "x": -50678.86328125,
+    "y": 17389.51171875,
+    "z": 1631.1259765625
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0258.puz",
+    "instName": "AllDiff_PuzzleCube_11",
+    "x": -53998.61328125,
+    "y": 15699.760742188,
+    "z": 2090.1918945312
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0758.puz",
+    "instName": "AllDiff_PuzzleCube_12",
+    "x": -51549.49609375,
+    "y": 17113.318359375,
+    "z": 1576.4240722656
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0333.puz",
+    "instName": "AllDiff_PuzzleCube_13",
+    "x": -55709.328125,
+    "y": 17887.037109375,
+    "z": 4286.7543945312
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0310.puz",
+    "instName": "AllDiff_PuzzleCube_14",
+    "x": -54716.94140625,
+    "y": 17471.900390625,
+    "z": 3136.1071777344
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0264.puz",
+    "instName": "AllDiff_PuzzleCube_15",
+    "x": -54032.65625,
+    "y": 17991.431640625,
+    "z": 2389.5771484375
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1034.puz",
+    "instName": "AllDiff_PuzzleCube_16",
+    "x": -50296.125,
+    "y": 14450.279296875,
+    "z": 1822.0886230469
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0316.puz",
+    "instName": "AllDiff_PuzzleCube_17",
+    "x": -47171.45703125,
+    "y": 20929.57421875,
+    "z": 2360.3449707031
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0314.puz",
+    "instName": "AllDiff_PuzzleCube_18",
+    "x": -48227.3515625,
+    "y": 22430.68359375,
+    "z": 2364.0327148438
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0315.puz",
+    "instName": "AllDiff_PuzzleCube_19",
+    "x": -51625.19921875,
+    "y": 21548.958984375,
+    "z": 4231.1372070312
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0761.puz",
+    "instName": "AllDiff_PuzzleCube_2",
+    "x": -49008.33984375,
+    "y": 16995.859375,
+    "z": 1991.3022460938
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0285.puz",
+    "instName": "AllDiff_PuzzleCube_20",
+    "x": -52166.21875,
+    "y": 15190.196289062,
+    "z": 2311.0678710938
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0327.puz",
+    "instName": "AllDiff_PuzzleCube_21",
+    "x": -49028.9375,
+    "y": 16788.783203125,
+    "z": 1410.4709472656
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0605.puz",
+    "instName": "AllDiff_PuzzleCube_22",
+    "x": -51858.64453125,
+    "y": 14784.379882812,
+    "z": 2296.6381835938
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0757.puz",
+    "instName": "AllDiff_PuzzleCube_23",
+    "x": -50669.32421875,
+    "y": 16612.587890625,
+    "z": 1670.5158691406
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0318.puz",
+    "instName": "AllDiff_PuzzleCube_24",
+    "x": -49202.9140625,
+    "y": 19362.830078125,
+    "z": 2638.1606445312
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1262.puz",
+    "instName": "AllDiff_PuzzleCube_25",
+    "x": -51722.26171875,
+    "y": 19323.74609375,
+    "z": 3263.7685546875
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1173.puz",
+    "instName": "AllDiff_PuzzleCube_26",
+    "x": -49470.4609375,
+    "y": 18875.1171875,
+    "z": 1950.2067871094
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1340.puz",
+    "instName": "AllDiff_PuzzleCube_27",
+    "x": -50772.61328125,
+    "y": 14521.352539062,
+    "z": -4887.4345703125
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1308.puz",
+    "instName": "AllDiff_PuzzleCube_28",
+    "x": -45256.37890625,
+    "y": 15199.635742188,
+    "z": 386.19323730469
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1309.puz",
+    "instName": "AllDiff_PuzzleCube_29",
+    "x": -53310.12890625,
+    "y": 16805.740234375,
+    "z": 1864.2020263672
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0284.puz",
+    "instName": "AllDiff_PuzzleCube_3",
+    "x": -53186.78125,
+    "y": 14042.858398438,
+    "z": 3041.6176757812
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1310.puz",
+    "instName": "AllDiff_PuzzleCube_30",
+    "x": -48304.078125,
+    "y": 18651.34375,
+    "z": 1874.4663085938
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1312.puz",
+    "instName": "AllDiff_PuzzleCube_31",
+    "x": -49864.70703125,
+    "y": 21401.572265625,
+    "z": 2739.6892089844
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1313.puz",
+    "instName": "AllDiff_PuzzleCube_32",
+    "x": -47167.63671875,
+    "y": 19198.919921875,
+    "z": 3300.4577636719
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1311.puz",
+    "instName": "AllDiff_PuzzleCube_33",
+    "x": -48801.01953125,
+    "y": 20508.951171875,
+    "z": 2846.806640625
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1336.puz",
+    "instName": "AllDiff_PuzzleCube_34",
+    "x": -47442.078125,
+    "y": 16234.877929688,
+    "z": 1275.0834960938
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1305.puz",
+    "instName": "AllDiff_PuzzleCube_35",
+    "x": -49928.39453125,
+    "y": 11796.845703125,
+    "z": -4638.779296875
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1370.puz",
+    "instName": "AllDiff_PuzzleCube_36",
+    "x": -47149.3828125,
+    "y": 15250.844726562,
+    "z": 484.45239257812
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0341.puz",
+    "instName": "AllDiff_PuzzleCube_4",
+    "x": -47550.12109375,
+    "y": 15430.171875,
+    "z": -972.43829345703
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1263.puz",
+    "instName": "AllDiff_PuzzleCube_5",
+    "x": -44900.29296875,
+    "y": 16637.412109375,
+    "z": -3350.1555175781
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1175.puz",
+    "instName": "AllDiff_PuzzleCube_6",
+    "x": -48765.8359375,
+    "y": 14292.922851562,
+    "z": 1097.1083984375
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0723.puz",
+    "instName": "AllDiff_PuzzleCube_7",
+    "x": -45433.6171875,
+    "y": 14344.28125,
+    "z": -417.09060668945
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0076.puz",
+    "instName": "AllDiff_PuzzleCube_8",
+    "x": -49533.69921875,
+    "y": 19449.537109375,
+    "z": 2638.1586914062
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1174.puz",
+    "instName": "AllDiff_PuzzleCube_9",
+    "x": -48098.49609375,
+    "y": 17670.013671875,
+    "z": 1777.4204101562
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0325.puz",
+    "instName": "AllDiff_PuzzleCube_Boss",
+    "x": -52106.30078125,
+    "y": 19938.5859375,
+    "z": 1827.419921875
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0349.puz",
+    "instName": "AllDiff_PuzzleCube_Secret1",
+    "x": -50175.69140625,
+    "y": 17773.17578125,
+    "z": -3322.4499511719
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/1254.puz",
+    "instName": "AllDiff_PuzzleCube_Secret2",
+    "x": -53007.5078125,
+    "y": 20123.462890625,
+    "z": 3793.7368164062
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0332.puz",
+    "instName": "AllDiff_PuzzleCube_Secret3",
+    "x": -57840.08984375,
+    "y": 16948.48046875,
+    "z": -537.83868408203
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0701.puz",
+    "instName": "AllDiff_PuzzleCube_Secret4",
+    "x": -57947.296875,
+    "y": 15494.3125,
+    "z": -549.95397949219
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0317.puz",
+    "instName": "AllDiff_PuzzleCube_Secret5",
+    "x": -51022.80078125,
+    "y": 11404.338867188,
+    "z": -4582.5927734375
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0283.puz",
+    "instName": "AllDiff_Tutorial_01",
+    "x": -48214.4140625,
+    "y": 9252.49609375,
+    "z": 1375.4685058594
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0760.puz",
+    "instName": "AllDiff_Tutorial_02",
+    "x": -48530.140625,
+    "y": 9963.544921875,
+    "z": 1224.9581298828
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0645.puz",
+    "instName": "AllDiff_Tutorial_03",
+    "x": -48772.97265625,
+    "y": 10768.176757812,
+    "z": 1179.2243652344
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0282.puz",
+    "instName": "AllDiff_Tutorial_03B",
+    "x": -49313.140625,
+    "y": 11236.041992188,
+    "z": 1186.9638671875
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0603.puz",
+    "instName": "AllDiff_Tutorial_04",
+    "x": -49324.7109375,
+    "y": 12273.64453125,
+    "z": 1384.5617675781
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/4-all-regions-different/0604.puz",
+    "instName": "AllDiff_Tutorial_05",
+    "x": -49761.2265625,
+    "y": 13423.112304688,
+    "z": 1888.7677001953
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0350.puz",
+    "instName": "AllSame_PuzzleCube_10",
+    "x": -41316.640625,
+    "y": -15092.78125,
+    "z": 560.05725097656
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0351.puz",
+    "instName": "AllSame_PuzzleCube_11",
+    "x": -40001.7421875,
+    "y": -14448.551757812,
+    "z": 625.35943603516
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0357.puz",
+    "instName": "AllSame_PuzzleCube_12",
+    "x": -38704.578125,
+    "y": -15792.075195312,
+    "z": 125.24298095703
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1176.puz",
+    "instName": "AllSame_PuzzleCube_13",
+    "x": -42130.89453125,
+    "y": -12702.244140625,
+    "z": 497.74880981445
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1177.puz",
+    "instName": "AllSame_PuzzleCube_14",
+    "x": -43699.40625,
+    "y": -14733.747070312,
+    "z": 1041.8791503906
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0383.puz",
+    "instName": "AllSame_PuzzleCube_15",
+    "x": -41241.34375,
+    "y": -17789.359375,
+    "z": 676.77850341797
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0145.puz",
+    "instName": "AllSame_PuzzleCube_16",
+    "x": -39705.65234375,
+    "y": -15341.256835938,
+    "z": 405.28735351562
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0356.puz",
+    "instName": "AllSame_PuzzleCube_17",
+    "x": -38563.65234375,
+    "y": -14589.201171875,
+    "z": 462.48858642578
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1178.puz",
+    "instName": "AllSame_PuzzleCube_18",
+    "x": -41179.46484375,
+    "y": -18522.10546875,
+    "z": 648.42572021484
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1330.puz",
+    "instName": "AllSame_PuzzleCube_19",
+    "x": -40230.0078125,
+    "y": -18730.798828125,
+    "z": 631.58154296875
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0372.puz",
+    "instName": "AllSame_PuzzleCube_1Secret",
+    "x": -39459.1171875,
+    "y": -16763.43359375,
+    "z": -1604.3604736328
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0384.puz",
+    "instName": "AllSame_PuzzleCube_2",
+    "x": -41791.47265625,
+    "y": -19146.958984375,
+    "z": 1643.9716796875
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1331.puz",
+    "instName": "AllSame_PuzzleCube_20",
+    "x": -39646.43359375,
+    "y": -17554.591796875,
+    "z": 514.73138427734
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1364.puz",
+    "instName": "AllSame_PuzzleCube_21",
+    "x": -39386.828125,
+    "y": -13955.012695312,
+    "z": 857.10925292969
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1365.puz",
+    "instName": "AllSame_PuzzleCube_22",
+    "x": -39699.44921875,
+    "y": -14563.412109375,
+    "z": 1540.9958496094
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1366.puz",
+    "instName": "AllSame_PuzzleCube_23",
+    "x": -42712.81640625,
+    "y": -15531.330078125,
+    "z": 1930.3959960938
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0254.puz",
+    "instName": "AllSame_PuzzleCube_3",
+    "x": -41360.03515625,
+    "y": -14047.892578125,
+    "z": 936.31134033203
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0381.puz",
+    "instName": "AllSame_PuzzleCube_4",
+    "x": -42481.984375,
+    "y": -16023.868164062,
+    "z": 771.12658691406
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0353.puz",
+    "instName": "AllSame_PuzzleCube_5",
+    "x": -38196.45703125,
+    "y": -14055.499023438,
+    "z": -710.54223632812
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/1095.puz",
+    "instName": "AllSame_PuzzleCube_6",
+    "x": -42479.4765625,
+    "y": -14675.784179688,
+    "z": 700.66943359375
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0355.puz",
+    "instName": "AllSame_PuzzleCube_7",
+    "x": -39924.96875,
+    "y": -12902.587890625,
+    "z": 928.70819091797
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0382.puz",
+    "instName": "AllSame_PuzzleCube_8",
+    "x": -40112.3671875,
+    "y": -16157.827148438,
+    "z": 469.73178100586
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0700.puz",
+    "instName": "AllSame_PuzzleCube_9",
+    "x": -41154.10546875,
+    "y": -16864.935546875,
+    "z": 782.80456542969
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0960.puz",
+    "instName": "AllSame_PuzzleCube_9Secret",
+    "x": -43097.73828125,
+    "y": -17677.806640625,
+    "z": 2739.5439453125
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0763.puz",
+    "instName": "AllSame_PuzzleCube_Boss",
+    "x": -40667.1328125,
+    "y": -17548.98046875,
+    "z": 1699.3543701172
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0319.puz",
+    "instName": "AllSame_Tutorial_01",
+    "x": -44671.78125,
+    "y": -11261.821289062,
+    "z": 121.58288574219
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0602.puz",
+    "instName": "AllSame_Tutorial_02",
+    "x": -44015.8671875,
+    "y": -11646.80859375,
+    "z": 291.82821655273
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/3-all-regions-same/0352.puz",
+    "instName": "AllSame_Tutorial_03",
+    "x": -43705.296875,
+    "y": -12710.668945312,
+    "z": 596.02825927734
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0335.puz",
+    "instName": "Area_PuzzleCube_1",
+    "x": -44843.5,
+    "y": -6665.880859375,
+    "z": -456.74938964844
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0334.puz",
+    "instName": "Area_PuzzleCube_10",
+    "x": -44484.421875,
+    "y": -5277.9306640625,
+    "z": -349.26248168945
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0292.puz",
+    "instName": "Area_PuzzleCube_11",
+    "x": -47935.37890625,
+    "y": -7248.4658203125,
+    "z": -620.75067138672
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0388.puz",
+    "instName": "Area_PuzzleCube_12",
+    "x": -46183.80859375,
+    "y": -10243.171875,
+    "z": -130.78039550781
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0386.puz",
+    "instName": "Area_PuzzleCube_13",
+    "x": -47980.31640625,
+    "y": -5963.4692382812,
+    "z": -665.63507080078
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0187.puz",
+    "instName": "Area_PuzzleCube_14",
+    "x": -47255.72265625,
+    "y": -5471.7631835938,
+    "z": -627.70220947266
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0346.puz",
+    "instName": "Area_PuzzleCube_15",
+    "x": -46486.28515625,
+    "y": -8249.2861328125,
+    "z": -583.76940917969
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0743.puz",
+    "instName": "Area_PuzzleCube_16",
+    "x": -49298.38671875,
+    "y": -7414.8974609375,
+    "z": -564.29949951172
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0739.puz",
+    "instName": "Area_PuzzleCube_17",
+    "x": -48105.1796875,
+    "y": -11042.025390625,
+    "z": 685.34143066406
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0744.puz",
+    "instName": "Area_PuzzleCube_18",
+    "x": -48930.921875,
+    "y": -4160.4995117188,
+    "z": -600.41412353516
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1328.puz",
+    "instName": "Area_PuzzleCube_19",
+    "x": -50387.55859375,
+    "y": -8699.765625,
+    "z": 949.15997314453
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0344r.puz",
+    "instName": "Area_PuzzleCube_19Secretish",
+    "x": -49585.56640625,
+    "y": -7900.8212890625,
+    "z": 946.9345703125
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0747.puz",
+    "instName": "Area_PuzzleCube_2",
+    "x": -43563.19921875,
+    "y": -4320.4560546875,
+    "z": 257.88385009766
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0750.puz",
+    "instName": "Area_PuzzleCube_20",
+    "x": -47228.42578125,
+    "y": -13307.71875,
+    "z": 664.09460449219
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0376.puz",
+    "instName": "Area_PuzzleCube_21",
+    "x": -51487.609375,
+    "y": -14246.727539062,
+    "z": 708.11450195312
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0378.puz",
+    "instName": "Area_PuzzleCube_22",
+    "x": -49411.36328125,
+    "y": -12935.005859375,
+    "z": 872.31158447266
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0751.puz",
+    "instName": "Area_PuzzleCube_23",
+    "x": -47388.66796875,
+    "y": -12163.400390625,
+    "z": 765.52935791016
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0752.puz",
+    "instName": "Area_PuzzleCube_24",
+    "x": -47460.05078125,
+    "y": -14705.236328125,
+    "z": 673.65112304688
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0746.puz",
+    "instName": "Area_PuzzleCube_25",
+    "x": -48239.84375,
+    "y": -10637.424804688,
+    "z": 697.64770507812
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0348.puz",
+    "instName": "Area_PuzzleCube_26",
+    "x": -50848.47265625,
+    "y": -10313.763671875,
+    "z": 966.86279296875
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0648.puz",
+    "instName": "Area_PuzzleCube_27",
+    "x": -49895.6171875,
+    "y": -9346.4072265625,
+    "z": 921.98706054688
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0748.puz",
+    "instName": "Area_PuzzleCube_28",
+    "x": -51095.5859375,
+    "y": -11481.760742188,
+    "z": 809.18762207031
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0749.puz",
+    "instName": "Area_PuzzleCube_29",
+    "x": -51288.18359375,
+    "y": -9001.10546875,
+    "z": 971.98181152344
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0360.puz",
+    "instName": "Area_PuzzleCube_3",
+    "x": -46480.53515625,
+    "y": -8567.703125,
+    "z": -584.04693603516
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1261.puz",
+    "instName": "Area_PuzzleCube_30",
+    "x": -50138.62890625,
+    "y": -5098.31640625,
+    "z": -274.91961669922
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1329.puz",
+    "instName": "Area_PuzzleCube_31",
+    "x": -49424.796875,
+    "y": -10626.196289062,
+    "z": 910.548828125
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1101.puz",
+    "instName": "Area_PuzzleCube_4",
+    "x": -48083.19921875,
+    "y": -8259.255859375,
+    "z": 129.45208740234
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0281.puz",
+    "instName": "Area_PuzzleCube_5",
+    "x": -47204.73046875,
+    "y": -3828.4350585938,
+    "z": -564.87347412109
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0710.puz",
+    "instName": "Area_PuzzleCube_6",
+    "x": -44634.20703125,
+    "y": -8561.3564453125,
+    "z": 72.575439453125
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1159.puz",
+    "instName": "Area_PuzzleCube_7",
+    "x": -46475.25,
+    "y": -8862.673828125,
+    "z": -548.71710205078
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0649.puz",
+    "instName": "Area_PuzzleCube_8",
+    "x": -48590.69140625,
+    "y": -13965.516601562,
+    "z": 714.76287841797
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0647.puz",
+    "instName": "Area_PuzzleCube_9",
+    "x": -47137.44921875,
+    "y": -9825.408203125,
+    "z": 520.77453613281
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0742.puz",
+    "instName": "Area_PuzzleCube_Boss1",
+    "x": -50582.26171875,
+    "y": -6294.8828125,
+    "z": -283.87338256836
+  },
+  {
+    "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/0745.puz",
+    "instName": "Area_PuzzleCube_Boss2",
+    "x": -49199.40625,
+    "y": -12071.510742188,
+    "z": 925.77478027344
   },
   {
     "puzzleId": "AGeri/Puzzles/Zone2/1-area-numbers/1183.puz",

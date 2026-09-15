@@ -69,8 +69,9 @@ body.hidden-in-puzzle .panel {
 }
 
 .clock {
-  font-size: 11px;
-  color: var(--ink-soft);
+  font-size: 22px;
+  font-weight: bold;
+  color: var(--ink);
   font-variant-numeric: tabular-nums;
 }
 

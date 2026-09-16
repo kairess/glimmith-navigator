@@ -124,6 +124,14 @@ differ.
   couple seconds even if it flashes centered for a moment.
 - **Always-on-top**: also re-asserted every 2s for the same reason —
   focusing the game can otherwise raise it above the overlay.
+- **Window vanishes entirely**: also observed — the panel can get
+  unmapped/withdrawn by the compositor with no corresponding Electron
+  `hide`/`closed` event (the `BrowserWindow` object stays alive,
+  `isDestroyed()` stays false, the process keeps running). The same 2s
+  re-assert loop checks `isVisible()` and calls `showInactive()` to bring it
+  back without stealing game focus. Root cause on the Mutter/Xwayland side
+  isn't nailed down; this is a mitigation, not a fix for the underlying
+  compositor behavior.
 - **Interacting with the panel (click/scroll)**: the panel needs to actually
   have window focus before scroll wheel input works (a plain click on it
   both focuses it and registers, so that part works standalone; scroll

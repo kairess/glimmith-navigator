@@ -256,8 +256,13 @@ function createMainWindow() {
   // ignore the x/y and alwaysOnTop passed to the BrowserWindow constructor.
   // Re-assert both once the window is actually mapped, and keep re-asserting
   // periodically since focusing the game can re-raise it above the overlay.
+  // Also observed on GNOME/Mutter: the window can get unmapped/withdrawn by
+  // the compositor with no corresponding Electron 'hide'/'closed' event (the
+  // BrowserWindow object stays alive and isDestroyed() stays false) --
+  // showInactive() again here brings it back without stealing game focus.
   const pinToEdge = () => {
     if (!mainWindow || mainWindow.isDestroyed()) return;
+    if (!mainWindow.isVisible()) mainWindow.showInactive();
     const { x, y, width, fullHeight } = mainWindowBounds;
     const [, currentHeight] = mainWindow.getSize();
     mainWindow.setPosition(x, y);

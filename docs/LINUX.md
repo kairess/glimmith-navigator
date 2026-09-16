@@ -112,6 +112,15 @@ now-less-loaded system reliably succeeds within seconds. This also means
 the overlay may take up to ~20-60s to actually appear on a cold game
 start; that's expected.
 
+### Launching it standalone (dock icon / app menu)
+
+`run-navigator.sh` is the same launch-with-retry logic as
+`launch-with-game.sh`, minus the game-wrapping -- use it as the `Exec=` line
+of a `.desktop` file (or run it directly) to get a dock/app-menu icon that
+survives being clicked while the game is actively starting up. Don't point
+a launcher directly at the `electron` binary; it has none of the GPU/retry
+protections above and will intermittently "do nothing" for the same reasons.
+
 ## Known Linux/GNOME quirks
 
 These come from testing on GNOME (Mutter) + Xwayland; other desktops/WMs may

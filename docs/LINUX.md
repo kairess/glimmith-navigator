@@ -98,33 +98,32 @@ Properties → General → Launch Options):
 
 `npm install` must have been run in the repo first (see main README).
 
-The overlay is launched with `--disable-gpu` (it's a plain 2D panel, no
-acceleration needed). More importantly, the game's own startup (Proton
-bootstrap, shader compilation, asset streaming) can peg the CPU/compositor
-hard enough that a simultaneously-launched Electron window's handshake with
-the X server never completes — not slow, just stuck indefinitely until that
-load eases, even with `--disable-gpu`. The Node process stays alive the
-whole time; only the window never appears, so it looks like the overlay
-silently "didn't start". The script's `supervise_nav` watches for the
-window (via `xwininfo`) after launching, and if it hasn't shown up within
-~20s, kills that attempt and retries (up to 3 times) — a relaunch into a
-now-less-loaded system reliably succeeds within seconds. This also means
-the overlay may take up to ~20-60s to actually appear on a cold game
-start; that's expected.
+The overlay is launched with `--ozone-platform=x11`. Without it: launched
+from inside a real graphical session (as Steam and the desktop's app
+launcher both are -- `XDG_SESSION_TYPE=wayland` plus `WAYLAND_DISPLAY` set),
+Electron auto-detects Wayland and picks its native Wayland backend. On the
+Electron/Mutter combination this was tested on, that backend **never shows
+a window at all** -- the process stays alive, the log has nothing useful in
+it, and it looks like the overlay silently "didn't start". Forcing
+`--ozone-platform=x11` makes it use Xwayland like a normal X11 client
+instead, which reliably works. (A shell launched over plain SSH, with no
+`WAYLAND_DISPLAY` of its own, doesn't hit this -- Electron falls back to X11
+on its own there, which is why a manual test from such a shell can look
+fine while the dock icon or Steam launch option doesn't.)
 
 ### Launching it standalone (dock icon / app menu)
 
-`run-navigator.sh` is the same launch-with-retry logic as
-`launch-with-game.sh`, minus the game-wrapping -- use it as the `Exec=` line
-of a `.desktop` file (or run it directly) to get a dock/app-menu icon that
-survives being clicked while the game is actively starting up. Don't point
-a launcher directly at the `electron` binary; it has none of the GPU/retry
-protections above and will intermittently "do nothing" for the same reasons.
+`run-navigator.sh` is the same launch logic as `launch-with-game.sh`, minus
+the game-wrapping -- use it as the `Exec=` line of a `.desktop` file (or run
+it directly) for a dock/app-menu icon. Don't point a launcher directly at
+the `electron` binary; without `--ozone-platform=x11` it hits the same
+window-never-appears issue above.
 
 ## Known Linux/GNOME quirks
 
 These come from testing on GNOME (Mutter) + Xwayland; other desktops/WMs may
-differ.
+differ. They all assume `--ozone-platform=x11` above is already in effect --
+without it, the symptom is just "no window," not any of these.
 
 - **Window position**: some GNOME setups force all new windows to open
   centered (`gsettings get org.gnome.mutter center-new-windows`). The app

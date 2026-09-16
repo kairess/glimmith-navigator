@@ -2,3 +2,4 @@ node_modules/
 *.log
 tools/save-explore/out.json
 dist/
+config.json

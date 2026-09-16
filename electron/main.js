@@ -159,7 +159,10 @@ function watchLivePositions() {
 function updateTooltipVisibility() {
   if (!tooltipWindow || tooltipWindow.isDestroyed()) return;
   if (hoveredPuzzleId && !inPuzzleState) {
-    if (!tooltipWindow.isVisible()) tooltipWindow.showInactive();
+    if (!tooltipWindow.isVisible()) {
+      tooltipWindow.setAlwaysOnTop(true, 'screen-saver');
+      tooltipWindow.showInactive();
+    }
   } else {
     tooltipWindow.hide();
   }
@@ -233,13 +236,36 @@ function createMainWindow() {
     resizable: false,
     skipTaskbar: false,
     hasShadow: false,
-    focusable: false, // don't steal focus from the game when clicked
+    // On Windows this avoids stealing focus from the game when clicked, while
+    // clicks still land on the window. On Linux (GNOME/Mutter + Xwayland),
+    // a non-focusable window doesn't receive click events at all -- they
+    // fall through to the game underneath -- so keep it focusable there.
+    // (Tried _NET_WM_WINDOW_TYPE_DOCK as an EWMH-correct alternative to get
+    // panel-like click-without-focus behavior -- on this Mutter version it
+    // blocks clicks entirely instead, so it's not used.)
+    focusable: process.platform !== 'win32',
     webPreferences: {
       preload: path.join(__dirname, 'preload.cjs'),
     },
   });
   mainWindow.setAlwaysOnTop(true, 'screen-saver');
   mainWindow.loadFile(path.join(projectRoot, 'renderer', 'index.html'));
+
+  // Some Linux window managers (e.g. GNOME/Mutter with "center new windows"
+  // enabled) only apply their own placement/stacking policy at map time and
+  // ignore the x/y and alwaysOnTop passed to the BrowserWindow constructor.
+  // Re-assert both once the window is actually mapped, and keep re-asserting
+  // periodically since focusing the game can re-raise it above the overlay.
+  const pinToEdge = () => {
+    if (!mainWindow || mainWindow.isDestroyed()) return;
+    const { x, y, width, fullHeight } = mainWindowBounds;
+    const [, currentHeight] = mainWindow.getSize();
+    mainWindow.setPosition(x, y);
+    mainWindow.setSize(width, currentHeight || fullHeight);
+    mainWindow.setAlwaysOnTop(true, 'screen-saver');
+  };
+  mainWindow.once('show', pinToEdge);
+  setInterval(pinToEdge, 2000);
 
   mainWindow.webContents.once('did-finish-load', () => {
     loadAndBroadcastSave();

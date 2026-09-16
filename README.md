@@ -26,6 +26,10 @@ The overlay stays docked to the right edge while you play, only showing itself o
 - [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) installed into the game (see below)
 - The Artisan of Glimmith (Steam)
 
+Playing on Linux (Proton)? See [docs/LINUX.md](docs/LINUX.md) — the paths,
+UE4SS install location, and a couple of Proton-specific fixes are different
+from the Windows steps below.
+
 ## Setup
 
 **1. Install UE4SS** (one-time, if you don't already have it)
@@ -52,7 +56,8 @@ GlimmithNavDiag : 1
 
 **3. Configure paths**
 
-Edit `config.json` in this repo if your game/save location differs from the defaults:
+Copy `config.example.json` to `config.json`, then edit it if your game/save
+location differs from the defaults:
 
 ```json
 {

@@ -28,7 +28,12 @@ export DISPLAY XAUTHORITY
 # prefer the native (UE4SS) DLL so the mod loader actually initializes.
 export WINEDLLOVERRIDES="dwmapi=n,b${WINEDLLOVERRIDES:+,$WINEDLLOVERRIDES}"
 
-setsid bash -c "cd '$NAV_DIR' && exec node_modules/electron/dist/electron . --no-sandbox" \
+# --disable-gpu: this is a plain 2D UI panel, no GPU acceleration needed --
+# and while the game is actively rendering, Electron's GPU process can hang
+# waiting for a GPU channel, which blocks window creation entirely (the
+# process stays alive but never shows a window). Software rendering avoids
+# fighting the game for the GPU.
+setsid bash -c "cd '$NAV_DIR' && exec node_modules/electron/dist/electron . --no-sandbox --disable-gpu" \
   < /dev/null >"$LOG" 2>&1 &
 NAV_PID=$!
 disown

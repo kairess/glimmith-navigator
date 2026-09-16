@@ -98,6 +98,13 @@ Properties → General → Launch Options):
 
 `npm install` must have been run in the repo first (see main README).
 
+The overlay is launched with `--disable-gpu`. This is a plain 2D panel with
+no need for GPU acceleration, and while the game is actively rendering,
+Electron's GPU process can hang waiting for a GPU channel — the Node
+process stays alive, but no window ever appears (looks like the overlay
+"didn't start", with nothing in its log). Software rendering sidesteps that
+entirely.
+
 ## Known Linux/GNOME quirks
 
 These come from testing on GNOME (Mutter) + Xwayland; other desktops/WMs may

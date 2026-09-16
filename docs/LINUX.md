@@ -98,12 +98,19 @@ Properties → General → Launch Options):
 
 `npm install` must have been run in the repo first (see main README).
 
-The overlay is launched with `--disable-gpu`. This is a plain 2D panel with
-no need for GPU acceleration, and while the game is actively rendering,
-Electron's GPU process can hang waiting for a GPU channel — the Node
-process stays alive, but no window ever appears (looks like the overlay
-"didn't start", with nothing in its log). Software rendering sidesteps that
-entirely.
+The overlay is launched with `--disable-gpu` (it's a plain 2D panel, no
+acceleration needed). More importantly, the game's own startup (Proton
+bootstrap, shader compilation, asset streaming) can peg the CPU/compositor
+hard enough that a simultaneously-launched Electron window's handshake with
+the X server never completes — not slow, just stuck indefinitely until that
+load eases, even with `--disable-gpu`. The Node process stays alive the
+whole time; only the window never appears, so it looks like the overlay
+silently "didn't start". The script's `supervise_nav` watches for the
+window (via `xwininfo`) after launching, and if it hasn't shown up within
+~20s, kills that attempt and retries (up to 3 times) — a relaunch into a
+now-less-loaded system reliably succeeds within seconds. This also means
+the overlay may take up to ~20-60s to actually appear on a cold game
+start; that's expected.
 
 ## Known Linux/GNOME quirks
 

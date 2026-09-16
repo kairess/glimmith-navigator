@@ -28,6 +28,15 @@ export DISPLAY XAUTHORITY
 # prefer the native (UE4SS) DLL so the mod loader actually initializes.
 export WINEDLLOVERRIDES="dwmapi=n,b${WINEDLLOVERRIDES:+,$WINEDLLOVERRIDES}"
 
+# If Steam/the desktop force-kills a previous game session (SIGKILL instead
+# of a signal our `trap cleanup` below can catch), the old Navigator process
+# is orphaned and keeps running. Starting a second one on top of it makes
+# both fight over the same docked position/always-on-top state, which looks
+# like the overlay is broken. Make sure nothing from a previous session is
+# still around before launching a fresh one.
+pkill -f "node_modules/electron/dist/electron \. --no-sandbox" 2>/dev/null
+sleep 0.5
+
 # --disable-gpu: this is a plain 2D UI panel, no GPU acceleration needed --
 # and while the game is actively rendering, Electron's GPU process can hang
 # waiting for a GPU channel, which blocks window creation entirely (the
